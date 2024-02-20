@@ -32,12 +32,12 @@ function generateMarkdown(data) {
   ## Contributing
   ${data.contributing}
 
-  ## Test
-  ${data.test}
+  ## Tests
+  ${data.tests}
 
   ## Questions
   Should you have any question regarding this project, feel free to contact me:
-  
+
   ${data.email}
   [Github Account](https://github.com/${data.github})
 
