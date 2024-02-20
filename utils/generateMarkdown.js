@@ -36,9 +36,10 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Questions
-  Should you have any question regarding this project, feel free to contact through email or visit my github account
-  <a href="mailto:${data.email}">${data.email}</a>
-  <a href="https://github.com/${data.github}">${data.github}</a>
+  Should you have any question regarding this project, feel free to contact me:
+  
+  ${data.email}
+  [Github Account](https://github.com/${data.github})
 
 `;
 }
