@@ -31,19 +31,21 @@
 
 ## Description
 
-Has a developer it is important to have a high quality README for project/application. In this project i have crated a quick and easy way to create a README using a command line application to generate one by following few question prompts in the command-line. This im to to to save time and productivity. This application with allow developers/ project creators to focus more time on working on the actually project.
+Has a developer it is important to have a high-quality README for a project/application. In this project, I have created a quick and easy way to create a README using a command line application to generate one by following a few question prompts in the command line. This is to save time and productivity. This application with allow developers/ project creators to focus more time on working on the actual project.
+
+https://drive.google.com/open?id=1sNYA5YKhCqttrKqfAqJYAAIw1JG5mzuJ&usp=drive_copy
 
 ## Installation
 
 - To start with, check if you have Node.js installed on your system by typing [node -v] in the command line.
-- If Node.js in not installed , visit the [Node.js website](https://nodejs.org/en) to install.
+- If Node.js is not installed, visit the [Node.js website](https://nodejs.org/en) to install.
 - Next, clone this project repository to your computer
-- Then, to install dependencies type [npm install] in teh command-line.
+- Then, to install dependencies type [npm install] in the command line.
 
 ## Usage
 
-- make sure you are in the write folder in your terminal
-- This application can be invoked by typing [node index.js] in the command-line
+- make sure you are in the right folder in your terminal
+- This application can be invoked by typing [node index.js] in the command line
 
 Check out this [**demo video**](https://watch.screencastify.com/v/1RvIdF6xMULPb53ZiHzI) for visual instruction on usage
 
