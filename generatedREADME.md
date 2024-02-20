@@ -25,7 +25,7 @@
   undefined
 
   ![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg)
-  This product is covered by the undefined license.
+  This product is covered by an undefined license.
 
   ## Contributing
   Please refer to project  README for more information
@@ -34,8 +34,9 @@
   Please refer to project  README for more information
 
   ## Questions
-  Should you have any question regarding this project, feel free to contact me:
+  Should you have any questions regarding this project, feel free to contact me:
 
   d.alabi91@gmail.com
+  
   [Github Account](https://github.com/dalabi91)
 
