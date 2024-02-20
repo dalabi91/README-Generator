@@ -6,11 +6,9 @@
 
 ## User Story
 
-- As a developer, I want a README generator so that I can quickly create a professional README for a new project
+- As a developer, I want a README generator so that I can quickly create a professional README for a new project.
 
 ## Acceptance criteria
-
-Create a recipe finder
 
 - Create a command-line application that accepts user input.
   - When a user is prompted for information about the application repository then a high-quality, professional README.md is generated with:
@@ -47,7 +45,17 @@ Has a developer it is important to have a high quality README for project/applic
 - make sure you are in the write folder in your terminal
 - This application can be invoked by typing [node index.js] in the command-line
 
-Check out this demo video for visual instruction on usage [**clicking here**](https://dalabi91.github.io/Recipe-finder/)
+Check out this [**demo video**](https://watch.screencastify.com/v/1RvIdF6xMULPb53ZiHzI) for visual instruction on usage
+
+### Screenshot of App function
+
+<div align="center">
+
+Terminal screenshot
+
+![](./Images/Project-terminal%20screen.png)
+
+</div>
 
 ## Resource
 

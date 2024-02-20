@@ -1,9 +1,9 @@
 
   
-  # testing
+  # README Generator 
 
   ## Description
-  testing
+  Please refer to project  README for more information
 
   ## Table of Contents
 
@@ -16,10 +16,10 @@
   * [Questions](#test)
 
   ## Installation
-  testing
+  Please refer to project  README for more information
 
   ## Usage
-  testing
+  Please refer to project  README for more information
 
   ## License
   undefined
@@ -28,14 +28,14 @@
   This product is covered by the undefined license.
 
   ## Contributing
-  testing
+  Please refer to project  README for more information
 
   ## Tests
-  testing
+  Please refer to project  README for more information
 
   ## Questions
   Should you have any question regarding this project, feel free to contact me:
 
-  testing
-  [Github Account](https://github.com/testing)
+  d.alabi91@gmail.com
+  [Github Account](https://github.com/dalabi91)
 
