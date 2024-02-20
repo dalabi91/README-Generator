@@ -4,6 +4,14 @@
 
 </div>
 
+## Description
+
+Has a developer it is important to have a high-quality README for a project/application. In this project, I have created a quick and easy way to create a README using a command line application to generate one by following a few question prompts in the command line. This is to save time and productivity. This application with allow developers/ project creators to focus more time on working on the actual project.
+
+Check out this [**demo video**](https://watch.screencastify.com/v/1RvIdF6xMULPb53ZiHzI) for visual instruction on usage
+
+[https://drive.google.com/open?id=1sNYA5YKhCqttrKqfAqJYAAIw1JG5mzuJ&usp=drive_copy](https://github.com/dalabi91/README-Generator/assets/152018805/66720141-b627-4548-9811-e07fdb3bec3f)
+
 ## User Story
 
 - As a developer, I want a README generator so that I can quickly create a professional README for a new project.
@@ -29,11 +37,6 @@
     - When a user enters their email address then this is added to the section of the README entitled Questions, with instructions on how to reach them with additional questions
     - When a user clicks on the links in the **Table of Contents** then they are taken to the corresponding section of the README
 
-## Description
-
-Has a developer it is important to have a high-quality README for a project/application. In this project, I have created a quick and easy way to create a README using a command line application to generate one by following a few question prompts in the command line. This is to save time and productivity. This application with allow developers/ project creators to focus more time on working on the actual project.
-
-https://drive.google.com/open?id=1sNYA5YKhCqttrKqfAqJYAAIw1JG5mzuJ&usp=drive_copy
 
 ## Installation
 
