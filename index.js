@@ -128,10 +128,18 @@ const questions = [
 ];
 
 // function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+  fs.writeFile(`generatedREADME.md`, generateMarkdown(data), (err) =>
+    err ? console.log(err) : console.log(`README file has been created.`)
+  );
+}
 
 // function to initialize program
-function init() {}
+function init() {
+  inquirer.prompt(questions).then((response) => {
+    writeToFile(response.fileName, response);
+  });
+}
 
 // function call to initialize program
 init();
